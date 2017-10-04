@@ -45,3 +45,17 @@ body {
 .room-list td button {
   font-size: 18px;
 }
+
+.hidden {
+  display: none;
+}
+
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+}
+
+/*.modal-content {
+  border: 1px solid black;
+}*/
